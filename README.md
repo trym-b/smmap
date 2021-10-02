@@ -52,7 +52,13 @@ $ python setup.py install
 
 It is advised to have a look at the **Usage Guide** for a brief introduction on the different database implementations.
 
+## Run tests
 
+Run the tests with
+
+```bash
+$ nosetests
+```
 
 ## Homepage and Links
 
